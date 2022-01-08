@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student at the University of Toronto currently interning on the CoreOS team at Red Hat.
+I'm a student at the University of Toronto.
 
 <!--
 **kelvinfan001/kelvinfan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
